@@ -5,3 +5,5 @@ DS 593 in Fall 2025.
 
 See [https://teaching.babman.io/ds593/assign/dp.html](https://teaching.babman.io/ds593/assign/dp.html) for the assignment
 handout.
+
+#### This repo is tested with Python 3.12.3
