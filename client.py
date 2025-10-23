@@ -3,7 +3,7 @@ import traceback
 import json
 import sys
 
-URL = "http://18.208.128.210:3000"
+URL = ""
 
 def help():
   print("This file exposes three functions: avg(...), count(...), and count0(...).")
@@ -72,7 +72,7 @@ def count0(keys, dp):
   result = _query("count0", keys, "", dp)
   return headers, result
 
-
+https://teaching.babman.io/ds593/
 if __name__ == "__main__":
   arguments = sys.argv[1:]
   # Print help message
