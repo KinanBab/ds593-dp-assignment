@@ -1,7 +1,7 @@
-# Assignments for Brown's CSCI 2390
+# Assignments for BU's DS 593
 
 This repository contains the code for the Differential Privacy assignment in
 CSCI 2390 in Fall 2024.
 
-See [https://cs.brown.edu/courses/csci2390/2024/assign/dp.html](https://cs.brown.edu/courses/csci2390/2024/assign/dp.html) for the assignment
+See [https://teaching.babman.io/ds593/assign/dp.html](https://teaching.babman.io/ds593/assign/dp.html) for the assignment
 handout.
